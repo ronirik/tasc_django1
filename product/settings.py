@@ -33,6 +33,7 @@ INSTALLED_APPS = [
 
     # custom apps
     'applications.product',
+    'applications.review',
 ]
 
 MIDDLEWARE = [
